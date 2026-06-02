@@ -17,14 +17,14 @@ público em geral nos primeiros passos ao entrar no mundo dos investimentos. É 
 Para alimentar o NotebookLM e garantir fidelidade técnica dos resumos e respostas foram selecionadas e indexadas as seguintes fontes abertas e materiais de referência:
 
 ## Fontes de Video
-1. **Fonte 1 (https://www.youtube.com/watch?v=npoyc_X5zO8)
-2. **Fonte 2 (https://www.youtube.com/watch?v=NvMqkOxmasI)
-3. **Fonte 3 (https://www.youtube.com/watch?v=ZxYEKaAeBew)
-4. **Fonte 4 (https://www.youtube.com/watch?v=fMo_xntieUo)
+1. **Fonte 1** (https://www.youtube.com/watch?v=npoyc_X5zO8)
+2. **Fonte 2** (https://www.youtube.com/watch?v=NvMqkOxmasI)
+3. **Fonte 3** (https://www.youtube.com/watch?v=ZxYEKaAeBew)
+4. **Fonte 4** (https://www.youtube.com/watch?v=fMo_xntieUo)
 
 ## Fontes de Texto
-1. **Fonte 1 https://www.investopedia.com/terms/b/benjamin-method.asp
-2. **Fonte 2 https://br.investing.com/academy/analysis/formula-benjamin-graham/
+1. **Fonte 1** https://www.investopedia.com/terms/b/benjamin-method.asp
+2. **Fonte 2** https://br.investing.com/academy/analysis/formula-benjamin-graham/
 
 ---------
 
